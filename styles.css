@@ -1,0 +1,44 @@
+body
+{
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+
+.envoi
+{
+    /*width: 30%;*/
+    /*right: auto;*/
+    /*margin-right: 0px;*/
+   /* margin-top: 50px;
+    margin-bottom: 50px;*/
+} 
+
+label
+{
+    position:relative;
+    display:block;
+}
+
+input
+{
+    position:absolute;
+    top:0;
+    left:200px;
+}
+
+em
+{
+    color: rgb(214, 122, 127);
+    font-weight: bold;
+}
+
+
+/*.conversations
+{
+    color: black;
+    background-color: white;
+    width: 80%;
+    height: 500px;
+    overflow: auto;
+}*/
